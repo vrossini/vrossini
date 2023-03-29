@@ -1,4 +1,4 @@
-- 👋 Hi, you can call me Vinny
+- 👋 Hi, you can call me Vini
 - 👀 I'm interested in developing quality mobile applications
 
 <!---
